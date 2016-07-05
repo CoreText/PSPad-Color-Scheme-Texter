@@ -11,3 +11,8 @@ Light and Dark Color Schemes for PSPad
 
 ### Installation
 Put _Texter-Light.INI_ and _Texter-Dark.INI_ into _Color/_ directory in the root of your PSPad.
+
+<hr />
+### Related Repos
+[PSPad EditText Plugin](https://github.com/CoreText/PSPad-EditText) <br />
+[PSPad Open_CMD_In_Current_Dir](https://github.com/CoreText/PSPad-Open_CMD_In_Current_Dir)
